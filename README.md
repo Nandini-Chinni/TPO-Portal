@@ -25,6 +25,7 @@ The **TPO Portal** is a web-based application designed to streamline the recruit
 ---
 
 👥 User Roles
+
 Student: Register, update profile, view job postings, apply for jobs
 
 Company: Register, post job opportunities, view student applications
